@@ -15,4 +15,4 @@ Read
 Mary's LinkedIn site is [www.linkedin.com/in/maryfajimi](https://www.linkedin.com/in/maryfajimi).
 
 Here is a Bitmoji of Mary
-![Mary's Bitmoji](/imagesfolder/WhatsApp Image 2024-04-15 at 3.13.58 PM.jpeg)
+![Mary's Bitmoji](/imagesfolder/Bitmoji.jpeg)
